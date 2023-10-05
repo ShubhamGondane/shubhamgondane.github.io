@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Work Experience"
+    url: /work-ex/
+
+  - title: "Projects"
+    url: /collection-archive/
+        
+  - title: "Reading"
+    url: /reading/
+    
+  - title: "Resume"
+    url: https://shubhamgondane.github.io/files/ShubhamGondane_ML.pdf
