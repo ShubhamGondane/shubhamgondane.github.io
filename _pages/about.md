@@ -30,7 +30,7 @@ The research paper titled "The Impact of Impression Management on Academic Progr
 Publications
 ----
 
-Neural Network to Identify Personal Health Experience Mention in Tweets Using BioBERT Embeddings ACL 2019 Proceedings of the Fourth Social Media Mining for Health Applications (#SMM4H) Workshop & Shared Task
+Neural Network to Identify Personal Health Experience Mention in Tweets Using BioBERT Embeddings at ACL 2019 Proceedings of the Fourth Social Media Mining for Health Applications (#SMM4H) Workshop & Shared Task
 
 
 Coursework
